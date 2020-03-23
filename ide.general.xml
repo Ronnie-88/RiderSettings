@@ -22,7 +22,5 @@
     <entry key="parameter.info.max.visible.rows" value="10" />
     <entry key="performance.watcher.sampling.interval.ms" value="200" />
     <entry key="performance.watcher.unresponsive.interval.ms" value="1000" />
-    <entry key="ide.svg.icon" value="true" />
-    <entry key="ide.win.frame.decoration" value="true" />
   </component>
 </application>
